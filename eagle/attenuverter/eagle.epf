@@ -1,0 +1,27 @@
+[Eagle]
+Version="07 05 00"
+Platform="Mac OS X"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/74xx-little-us.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/fuse.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/resistor.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/supply1.lbr"
+UsedLibrary="/Users/zhagan/Downloads/thonkiconn.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/seeed/Seeed-OPL-Resistor.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/gm-lbr/gm-pots.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/MTM-Parts-Library-master/MusicThingModular.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/seeed/Seeed-OPL-Diode.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/seeed/Seeed-OPL-fuse.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/gm-lbr/gm-diodes.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/gm-lbr/gm-voltage.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/gm-lbr/gm-supply.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/Eagle-Libraries-master/Other/bourns.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/eagle-lbr-master/ptc-littlefuse.lbr"
+
+[Desktop]
+Screen="1280 800"
