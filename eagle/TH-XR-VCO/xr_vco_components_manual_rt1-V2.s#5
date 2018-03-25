@@ -7837,6 +7837,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <part name="C1" library="TomW" deviceset="C-EU" device="050-024X044" value="100pf"/>
 <part name="SUPPLY13" library="supply2" deviceset="GND" device=""/>
 <part name="R43" library="MusicThingModular" deviceset="RESISTOR" device="7MM" value="1.2m"/>
+<part name="SUPPLY14" library="supply2" deviceset="-12V" device=""/>
 <part name="HIGH_FREQ" library="MusicThingModular" deviceset="BOURNS_3362P_TRIMMER" device="P" value="1M"/>
 <part name="U2" library="linear" deviceset="TL074" device="P"/>
 <part name="SUPPLY21" library="supply2" deviceset="GND" device=""/>
@@ -7927,6 +7928,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <part name="C108" library="TomW" deviceset="C-EU" device="050-024X044" value="100pf"/>
 <part name="SUPPLY24" library="supply2" deviceset="GND" device=""/>
 <part name="R126" library="MusicThingModular" deviceset="RESISTOR" device="7MM" value="1.2m"/>
+<part name="SUPPLY27" library="supply2" deviceset="-12V" device=""/>
 <part name="HIGH_FREQ1" library="MusicThingModular" deviceset="BOURNS_3362P_TRIMMER" device="P" value="1M"/>
 <part name="U4" library="linear" deviceset="TL074" device="P"/>
 <part name="SUPPLY30" library="supply2" deviceset="GND" device=""/>
@@ -7991,8 +7993,6 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <part name="C19" library="TomW" deviceset="C-EU" device="050-024X044" value="100n"/>
 <part name="C20" library="TomW" deviceset="C-EU" device="050-024X044" value="100n"/>
 <part name="C21" library="TomW" deviceset="C-EU" device="050-024X044" value="100n"/>
-<part name="SUPPLY14" library="supply2" deviceset="+12V" device=""/>
-<part name="SUPPLY52" library="supply2" deviceset="+12V" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -8021,12 +8021,13 @@ https://muffwiggler.com/forum/viewtopic.php?t=49671</text>
 <instance part="V/OCT" gate="G$1" x="160.02" y="284.48"/>
 <instance part="SUPPLY11" gate="GND" x="160.02" y="259.08"/>
 <instance part="R2" gate="G$1" x="160.02" y="271.78" rot="R90"/>
-<instance part="SUPPLY12" gate="GND" x="233.68" y="281.94"/>
+<instance part="SUPPLY12" gate="GND" x="215.9" y="281.94"/>
 <instance part="R10" gate="G$1" x="195.58" y="284.48" rot="R90"/>
 <instance part="C1" gate="G$1" x="208.28" y="269.24" rot="R90"/>
 <instance part="U1" gate="B" x="210.82" y="248.92" rot="R180"/>
 <instance part="SUPPLY13" gate="GND" x="218.44" y="238.76"/>
 <instance part="R43" gate="G$1" x="233.68" y="269.24" rot="R180"/>
+<instance part="SUPPLY14" gate="G$1" x="238.76" y="264.16"/>
 <instance part="HIGH_FREQ" gate="G$1" x="180.34" y="238.76"/>
 <instance part="U2" gate="A" x="299.72" y="332.74" rot="MR180"/>
 <instance part="SUPPLY21" gate="GND" x="289.56" y="322.58"/>
@@ -8061,10 +8062,10 @@ https://muffwiggler.com/forum/viewtopic.php?t=49671</text>
 <instance part="C6" gate="G$1" x="411.48" y="111.76"/>
 <instance part="C5" gate="G$1" x="411.48" y="127"/>
 <instance part="JP1" gate="G$1" x="396.24" y="220.98"/>
-<instance part="Q1" gate="A" x="177.8" y="284.48" rot="MR180"/>
-<instance part="Q1" gate="B" x="226.06" y="284.48" rot="R180"/>
-<instance part="Q1" gate="C" x="149.86" y="487.68" rot="MR180"/>
-<instance part="Q1" gate="D" x="198.12" y="487.68" rot="R180"/>
+<instance part="Q1" gate="A" x="177.8" y="284.48"/>
+<instance part="Q1" gate="B" x="220.98" y="284.48"/>
+<instance part="Q1" gate="C" x="149.86" y="487.68"/>
+<instance part="Q1" gate="D" x="193.04" y="487.68"/>
 <instance part="IC2" gate="G$1" x="340.36" y="284.48"/>
 <instance part="D1" gate="G$1" x="167.64" y="271.78" rot="R270"/>
 <instance part="R23" gate="G$1" x="167.64" y="236.22" rot="R90"/>
@@ -8121,12 +8122,13 @@ https://muffwiggler.com/forum/viewtopic.php?t=49671</text>
 <instance part="V/OCT1" gate="G$1" x="132.08" y="487.68"/>
 <instance part="SUPPLY22" gate="GND" x="132.08" y="462.28"/>
 <instance part="R122" gate="G$1" x="132.08" y="474.98" rot="R90"/>
-<instance part="SUPPLY23" gate="GND" x="220.98" y="485.14"/>
+<instance part="SUPPLY23" gate="GND" x="187.96" y="485.14"/>
 <instance part="R124" gate="G$1" x="167.64" y="487.68" rot="R90"/>
 <instance part="C108" gate="G$1" x="180.34" y="472.44" rot="R90"/>
 <instance part="U3" gate="B" x="182.88" y="452.12" rot="R180"/>
 <instance part="SUPPLY24" gate="GND" x="190.5" y="441.96"/>
 <instance part="R126" gate="G$1" x="205.74" y="472.44" rot="R180"/>
+<instance part="SUPPLY27" gate="G$1" x="210.82" y="467.36"/>
 <instance part="HIGH_FREQ1" gate="G$1" x="152.4" y="441.96"/>
 <instance part="U4" gate="A" x="271.78" y="535.94" rot="MR180"/>
 <instance part="SUPPLY30" gate="GND" x="261.62" y="525.78"/>
@@ -8197,8 +8199,6 @@ https://muffwiggler.com/forum/viewtopic.php?t=49671</text>
 <instance part="C19" gate="G$1" x="426.72" y="127"/>
 <instance part="C20" gate="G$1" x="419.1" y="111.76"/>
 <instance part="C21" gate="G$1" x="426.72" y="111.76"/>
-<instance part="SUPPLY14" gate="+12V" x="238.76" y="266.7" rot="R180"/>
-<instance part="SUPPLY52" gate="+12V" x="210.82" y="467.36" rot="R180"/>
 </instances>
 <busses>
 </busses>
@@ -8216,8 +8216,8 @@ https://muffwiggler.com/forum/viewtopic.php?t=49671</text>
 </segment>
 <segment>
 <pinref part="SUPPLY12" gate="GND" pin="GND"/>
+<wire x1="215.9" y1="284.48" x2="218.44" y2="284.48" width="0.1524" layer="91"/>
 <pinref part="Q1" gate="B" pin="B"/>
-<wire x1="233.68" y1="284.48" x2="228.6" y2="284.48" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U1" gate="B" pin="+IN"/>
@@ -8395,7 +8395,7 @@ https://muffwiggler.com/forum/viewtopic.php?t=49671</text>
 </segment>
 <segment>
 <pinref part="SUPPLY23" gate="GND" pin="GND"/>
-<wire x1="220.98" y1="487.68" x2="200.66" y2="487.68" width="0.1524" layer="91"/>
+<wire x1="187.96" y1="487.68" x2="190.5" y2="487.68" width="0.1524" layer="91"/>
 <pinref part="Q1" gate="D" pin="B"/>
 </segment>
 <segment>
@@ -8590,17 +8590,13 @@ https://muffwiggler.com/forum/viewtopic.php?t=49671</text>
 <wire x1="350.52" y1="434.34" x2="347.98" y2="434.34" width="0.1524" layer="91"/>
 <label x="350.52" y="434.34" size="1.4224" layer="95" xref="yes"/>
 </segment>
-<segment>
-<pinref part="R126" gate="G$1" pin="1"/>
-<wire x1="210.82" y1="469.9" x2="210.82" y2="472.44" width="0.1524" layer="91"/>
-<pinref part="SUPPLY52" gate="+12V" pin="+12V"/>
-</segment>
-<segment>
-<pinref part="R43" gate="G$1" pin="1"/>
-<pinref part="SUPPLY14" gate="+12V" pin="+12V"/>
-</segment>
 </net>
 <net name="-12V" class="0">
+<segment>
+<pinref part="R43" gate="G$1" pin="1"/>
+<pinref part="SUPPLY14" gate="G$1" pin="-12V"/>
+<wire x1="238.76" y1="266.7" x2="238.76" y2="269.24" width="0.1524" layer="91"/>
+</segment>
 <segment>
 <pinref part="SUPPLY39" gate="G$1" pin="-12V"/>
 <wire x1="388.62" y1="104.14" x2="388.62" y2="106.68" width="0.1524" layer="91"/>
@@ -8655,6 +8651,11 @@ https://muffwiggler.com/forum/viewtopic.php?t=49671</text>
 <wire x1="238.76" y1="347.98" x2="246.38" y2="347.98" width="0.1524" layer="91"/>
 </segment>
 <segment>
+<pinref part="R126" gate="G$1" pin="1"/>
+<pinref part="SUPPLY27" gate="G$1" pin="-12V"/>
+<wire x1="210.82" y1="469.9" x2="210.82" y2="472.44" width="0.1524" layer="91"/>
+</segment>
+<segment>
 <pinref part="SUPPLY35" gate="G$1" pin="-12V"/>
 <pinref part="R27" gate="G$1" pin="1"/>
 <wire x1="210.82" y1="551.18" x2="218.44" y2="551.18" width="0.1524" layer="91"/>
@@ -8698,15 +8699,15 @@ https://muffwiggler.com/forum/viewtopic.php?t=49671</text>
 </net>
 <net name="N$11" class="0">
 <segment>
+<wire x1="180.34" y1="289.56" x2="180.34" y2="294.64" width="0.1524" layer="91"/>
 <wire x1="180.34" y1="294.64" x2="195.58" y2="294.64" width="0.1524" layer="91"/>
 <wire x1="195.58" y1="294.64" x2="223.52" y2="294.64" width="0.1524" layer="91"/>
+<wire x1="223.52" y1="294.64" x2="223.52" y2="289.56" width="0.1524" layer="91"/>
 <pinref part="R10" gate="G$1" pin="2"/>
 <wire x1="195.58" y1="289.56" x2="195.58" y2="294.64" width="0.1524" layer="91"/>
 <junction x="195.58" y="294.64"/>
-<pinref part="Q1" gate="A" pin="E"/>
-<wire x1="180.34" y1="289.56" x2="180.34" y2="294.64" width="0.1524" layer="91"/>
-<pinref part="Q1" gate="B" pin="E"/>
-<wire x1="223.52" y1="289.56" x2="223.52" y2="294.64" width="0.1524" layer="91"/>
+<pinref part="Q1" gate="A" pin="C"/>
+<pinref part="Q1" gate="B" pin="C"/>
 </segment>
 </net>
 <net name="LIN_FM_CV_1" class="0">
@@ -8722,10 +8723,10 @@ https://muffwiggler.com/forum/viewtopic.php?t=49671</text>
 <wire x1="236.22" y1="251.46" x2="223.52" y2="251.46" width="0.1524" layer="91"/>
 <junction x="223.52" y="251.46"/>
 <label x="236.22" y="251.46" size="1.4224" layer="95" xref="yes"/>
+<wire x1="180.34" y1="279.4" x2="180.34" y2="274.32" width="0.1524" layer="91"/>
+<pinref part="Q1" gate="A" pin="E"/>
 <wire x1="180.34" y1="274.32" x2="223.52" y2="274.32" width="0.1524" layer="91"/>
 <wire x1="223.52" y1="274.32" x2="223.52" y2="269.24" width="0.1524" layer="91"/>
-<pinref part="Q1" gate="A" pin="C"/>
-<wire x1="180.34" y1="279.4" x2="180.34" y2="274.32" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="JP1" gate="G$1" pin="4"/>
@@ -8813,6 +8814,13 @@ https://muffwiggler.com/forum/viewtopic.php?t=49671</text>
 <pinref part="JP1" gate="G$1" pin="7"/>
 <wire x1="408.94" y1="218.44" x2="406.4" y2="218.44" width="0.1524" layer="91"/>
 <label x="408.94" y="218.44" size="1.4224" layer="95" xref="yes"/>
+</segment>
+</net>
+<net name="N$1" class="0">
+<segment>
+<pinref part="Q1" gate="B" pin="E"/>
+<wire x1="223.52" y1="279.4" x2="322.58" y2="279.4" width="0.1524" layer="91"/>
+<pinref part="IC2" gate="G$1" pin="R1"/>
 </segment>
 </net>
 <net name="N$3" class="0">
@@ -9289,15 +9297,15 @@ https://muffwiggler.com/forum/viewtopic.php?t=49671</text>
 </net>
 <net name="N$18" class="0">
 <segment>
+<wire x1="152.4" y1="492.76" x2="152.4" y2="497.84" width="0.1524" layer="91"/>
 <wire x1="152.4" y1="497.84" x2="167.64" y2="497.84" width="0.1524" layer="91"/>
 <wire x1="167.64" y1="497.84" x2="195.58" y2="497.84" width="0.1524" layer="91"/>
+<wire x1="195.58" y1="497.84" x2="195.58" y2="492.76" width="0.1524" layer="91"/>
 <pinref part="R124" gate="G$1" pin="2"/>
 <wire x1="167.64" y1="492.76" x2="167.64" y2="497.84" width="0.1524" layer="91"/>
 <junction x="167.64" y="497.84"/>
-<pinref part="Q1" gate="C" pin="E"/>
-<wire x1="152.4" y1="492.76" x2="152.4" y2="497.84" width="0.1524" layer="91"/>
-<pinref part="Q1" gate="D" pin="E"/>
-<wire x1="195.58" y1="492.76" x2="195.58" y2="497.84" width="0.1524" layer="91"/>
+<pinref part="Q1" gate="C" pin="C"/>
+<pinref part="Q1" gate="D" pin="C"/>
 </segment>
 </net>
 <net name="N$19" class="0">
@@ -9319,6 +9327,13 @@ https://muffwiggler.com/forum/viewtopic.php?t=49671</text>
 <wire x1="157.48" y1="447.04" x2="152.4" y2="447.04" width="0.1524" layer="91"/>
 <wire x1="152.4" y1="449.58" x2="152.4" y2="447.04" width="0.1524" layer="91"/>
 <junction x="152.4" y="447.04"/>
+</segment>
+</net>
+<net name="N$37" class="0">
+<segment>
+<wire x1="195.58" y1="482.6" x2="294.64" y2="482.6" width="0.1524" layer="91"/>
+<pinref part="IC1" gate="G$1" pin="R1"/>
+<pinref part="Q1" gate="D" pin="E"/>
 </segment>
 </net>
 <net name="N$38" class="0">
@@ -9697,10 +9712,10 @@ https://muffwiggler.com/forum/viewtopic.php?t=49671</text>
 <wire x1="208.28" y1="454.66" x2="195.58" y2="454.66" width="0.1524" layer="91"/>
 <junction x="195.58" y="454.66"/>
 <label x="208.28" y="454.66" size="1.4224" layer="95" xref="yes"/>
+<wire x1="152.4" y1="482.6" x2="152.4" y2="477.52" width="0.1524" layer="91"/>
 <wire x1="152.4" y1="477.52" x2="195.58" y2="477.52" width="0.1524" layer="91"/>
 <wire x1="195.58" y1="477.52" x2="195.58" y2="472.44" width="0.1524" layer="91"/>
-<pinref part="Q1" gate="C" pin="C"/>
-<wire x1="152.4" y1="482.6" x2="152.4" y2="477.52" width="0.1524" layer="91"/>
+<pinref part="Q1" gate="C" pin="E"/>
 </segment>
 </net>
 <net name="SINE_TRI_OUT_2" class="0">
@@ -9801,20 +9816,6 @@ https://muffwiggler.com/forum/viewtopic.php?t=49671</text>
 <wire x1="378.46" y1="205.74" x2="381" y2="205.74" width="0.1524" layer="91"/>
 <label x="381" y="205.74" size="1.778" layer="95"/>
 <pinref part="JP2" gate="G$1" pin="2"/>
-</segment>
-</net>
-<net name="N$1" class="0">
-<segment>
-<pinref part="Q1" gate="B" pin="C"/>
-<pinref part="IC2" gate="G$1" pin="R1"/>
-<wire x1="223.52" y1="279.4" x2="322.58" y2="279.4" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$37" class="0">
-<segment>
-<pinref part="Q1" gate="D" pin="C"/>
-<pinref part="IC1" gate="G$1" pin="R1"/>
-<wire x1="195.58" y1="482.6" x2="294.64" y2="482.6" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>

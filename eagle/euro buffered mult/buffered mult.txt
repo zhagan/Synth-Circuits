@@ -1,0 +1,71 @@
+Partlist
+
+Exported from buffered mult rt1_postpwer.sch at 2/26/18 1:11 PM
+
+EAGLE Version 7.3.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value                     Device                    Package              Library           Sheet
+
+C1       6pf                       C-USC0603                 C0603                resistor          1
+C2       10pf                      C-USC0603                 C0603                resistor          1
+C3       10pf                      C-USC0603                 C0603                resistor          1
+C4       6pf                       C-USC0603                 C0603                resistor          1
+C5       10pf                      C-USC0603                 C0603                resistor          1
+C6       10pf                      C-USC0603                 C0603                resistor          1
+C7       0.1uf                     C-USC0603                 C0603                resistor          1
+C8       0.1uf                     C-USC0603                 C0603                resistor          1
+C9       10uf                      CPOL-US153CLV-0505        153CLV-0505          resistor          1
+C10      10uf                      CPOL-US153CLV-0505        153CLV-0505          resistor          1
+C11      0.1uf                     C-USC0603                 C0603                resistor          1
+C23      10pf                      C-USC0603                 C0603                resistor          1
+C24      10pf                      C-USC0603                 C0603                resistor          1
+C25      0.1uf                     C-USC0603                 C0603                resistor          1
+D2       1N4004                    1N4004                    DO41-10              diode             1
+D3       1N4004                    1N4004                    DO41-10              diode             1
+IN1      THONKICONNNEW             THONKICONNNEW             WQP-PJ301M-12_JACK   MusicThingModular 1
+IN2      THONKICONNNEW             THONKICONNNEW             WQP-PJ301M-12_JACK   MusicThingModular 1
+OUT1-1   THONKICONNNEW             THONKICONNNEW             WQP-PJ301M-12_JACK   MusicThingModular 1
+OUT1-2   THONKICONNNEW             THONKICONNNEW             WQP-PJ301M-12_JACK   MusicThingModular 1
+OUT1-3   THONKICONNNEW             THONKICONNNEW             WQP-PJ301M-12_JACK   MusicThingModular 1
+OUT2-1   THONKICONNNEW             THONKICONNNEW             WQP-PJ301M-12_JACK   MusicThingModular 1
+OUT2-2   THONKICONNNEW             THONKICONNNEW             WQP-PJ301M-12_JACK   MusicThingModular 1
+OUT2-3   THONKICONNNEW             THONKICONNNEW             WQP-PJ301M-12_JACK   MusicThingModular 1
+R1       100k                      R-US_R0603                R0603                resistor          1
+R2       107k                      R-US_R0603                R0603                resistor          1
+R3       13.3k                     R-US_R0603                R0603                resistor          1
+R4       49.9k                     R-US_R0603                R0603                resistor          1
+R5       49.9k                     R-US_R0603                R0603                resistor          1
+R6       301R                      R-US_R0603                R0603                resistor          1
+R7       49.9k                     R-US_R0603                R0603                resistor          1
+R8       49.9k                     R-US_R0603                R0603                resistor          1
+R9       13.3k                     R-US_R0603                R0603                resistor          1
+R10      301R                      R-US_R0603                R0603                resistor          1
+R11      49.9k                     R-US_R0603                R0603                resistor          1
+R12      49.9k                     R-US_R0603                R0603                resistor          1
+R13      301R                      R-US_R0603                R0603                resistor          1
+R14      13.3k                     R-US_R0603                R0603                resistor          1
+R15      100k                      R-US_R0603                R0603                resistor          1
+R16      107k                      R-US_R0603                R0603                resistor          1
+R17      49.9k                     R-US_R0603                R0603                resistor          1
+R18      13.3k                     R-US_R0603                R0603                resistor          1
+R19      49.9k                     R-US_R0603                R0603                resistor          1
+R20      301R                      R-US_R0603                R0603                resistor          1
+R21      49.9k                     R-US_R0603                R0603                resistor          1
+R22      49.9k                     R-US_R0603                R0603                resistor          1
+R23      13.3k                     R-US_R0603                R0603                resistor          1
+R24      301R                      R-US_R0603                R0603                resistor          1
+R25      49.9k                     R-US_R0603                R0603                resistor          1
+R26      49.9k                     R-US_R0603                R0603                resistor          1
+R27      301R                      R-US_R0603                R0603                resistor          1
+R28      13.3k                     R-US_R0603                R0603                resistor          1
+SV1      EURO_POWER_HEADERFAT_PADS EURO_POWER_HEADERFAT_PADS EURO_PWR_HEADER_FAT  MusicThingModular 1
+TR1      2k                        BOURNS_3362P_TRIMMERP     BOURNS_3362P_TRIMMER MusicThingModular 1
+TR2      2k                        BOURNS_3362P_TRIMMERP     BOURNS_3362P_TRIMMER MusicThingModular 1
+TR3      2k                        BOURNS_3362P_TRIMMERP     BOURNS_3362P_TRIMMER MusicThingModular 1
+TR4      2k                        BOURNS_3362P_TRIMMERP     BOURNS_3362P_TRIMMER MusicThingModular 1
+TR5      2k                        BOURNS_3362P_TRIMMERP     BOURNS_3362P_TRIMMER MusicThingModular 1
+TR6      2k                        BOURNS_3362P_TRIMMERP     BOURNS_3362P_TRIMMER MusicThingModular 1
+U1       TL074_SMD                 TL074_SMD                 SO14                 MusicThingModular 1
+U2       TL074_SMD                 TL074_SMD                 SO14                 MusicThingModular 1

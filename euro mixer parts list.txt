@@ -1,0 +1,49 @@
+Partlist
+
+Exported from mixer3_post layout.sch at 4/12/17 4:11 PM
+
+EAGLE Version 7.3.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value                      Device                     Package              Library           Sheet
+
+C1       10uF                       CPOL-USE2.5-7              E2,5-7               resistor          1
+C3       10uF                       CPOL-USE2.5-7              E2,5-7               resistor          1
+C5       100nF                      C-US075-032X103            C075-032X103         resistor          1
+C6       100nF                      C-US075-032X103            C075-032X103         resistor          1
+D1       1N4007                     1N400X.3                   DO41-3               gm-diodes         1
+D2       1N4007                     1N400X.3                   DO41-3               gm-diodes         1
+F1       MF-R500+                   MF-R500+                   BOURNS-MF-R          ptc-littlefuse    1
+F2       MF-R500+                   MF-R500+                   BOURNS-MF-R          ptc-littlefuse    1
+J1       THONKICONNNEW              THONKICONNNEW              WQP-PJ301M-12_JACK   MusicThingModular 1
+J2       THONKICONNNEW              THONKICONNNEW              WQP-PJ301M-12_JACK   MusicThingModular 1
+J3       THONKICONNNEW              THONKICONNNEW              WQP-PJ301M-12_JACK   MusicThingModular 1
+J4       THONKICONNNEW              THONKICONNNEW              WQP-PJ301M-12_JACK   MusicThingModular 1
+J5       THONKICONNNEW              THONKICONNNEW              WQP-PJ301M-12_JACK   MusicThingModular 1
+J6       THONKICONNNEW              THONKICONNNEW              WQP-PJ301M-12_JACK   MusicThingModular 1
+OUT1     THONKICONNNEW              THONKICONNNEW              WQP-PJ301M-12_JACK   MusicThingModular 1
+OUT2     THONKICONNNEW              THONKICONNNEW              WQP-PJ301M-12_JACK   MusicThingModular 1
+P1       A100K                      9MM_SNAP-IN_POT_           9MM_SNAP-IN_POT      MusicThingModular 1
+P2       A100K                      9MM_SNAP-IN_POT_           9MM_SNAP-IN_POT      MusicThingModular 1
+P3       A100K                      9MM_SNAP-IN_POT_           9MM_SNAP-IN_POT      MusicThingModular 1
+P4       A100K                      9MM_SNAP-IN_POT_           9MM_SNAP-IN_POT      MusicThingModular 1
+P5       A100K                      9MM_SNAP-IN_POT_           9MM_SNAP-IN_POT      MusicThingModular 1
+P6       A100K                      9MM_SNAP-IN_POT_           9MM_SNAP-IN_POT      MusicThingModular 1
+R1       100K                       RESISTOR7MM                7MM_RESISTOR         MusicThingModular 1
+R2       100K                       RESISTOR7MM                7MM_RESISTOR         MusicThingModular 1
+R3       100K                       RESISTOR7MM                7MM_RESISTOR         MusicThingModular 1
+R4       100K                       RESISTOR7MM                7MM_RESISTOR         MusicThingModular 1
+R5       100K                       RESISTOR7MM                7MM_RESISTOR         MusicThingModular 1
+R6       100K                       RESISTOR7MM                7MM_RESISTOR         MusicThingModular 1
+R7       100K                       RESISTOR7MM                7MM_RESISTOR         MusicThingModular 1
+R8       100K                       RESISTOR7MM                7MM_RESISTOR         MusicThingModular 1
+R9       100K                       RESISTOR7MM                7MM_RESISTOR         MusicThingModular 1
+R10      100K                       RESISTOR7MM                7MM_RESISTOR         MusicThingModular 1
+R11      1K                         RESISTOR7MM                7MM_RESISTOR         MusicThingModular 1
+R12      1K                         RESISTOR7MM                7MM_RESISTOR         MusicThingModular 1
+R13      100K                       RESISTOR7MM                7MM_RESISTOR         MusicThingModular 1
+R14      100K                       RESISTOR7MM                7MM_RESISTOR         MusicThingModular 1
+R15      100K                       RESISTOR7MM                7MM_RESISTOR         MusicThingModular 1
+SV1      EURO_POWER_HEADERLOCK_PADS EURO_POWER_HEADERLOCK_PADS EURO_PWR_HEADER_LOCK MusicThingModular 1
+U1       TL074_                     TL074_                     DIL14                MusicThingModular 1

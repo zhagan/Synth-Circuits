@@ -1,0 +1,37 @@
+Partlist
+
+Exported from vco1_pots.sch at 4/8/17 10:40 AM
+
+EAGLE Version 7.3.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part          Value          Device                  Package            Library             Sheet
+
+1V/OCT        THONKICONNNEW  THONKICONNNEW           WQP-PJ301M-12_JACK MusicThingModular   1
+C2            220nf          C-EU050-024X044         C050-024X044       TomW                1
+COARSE        100k           9MM_SNAP-IN_POT_CHASSIS 9MM_SNAP-IN_POT    MusicThingModular   1
+EXP_FM        THONKICONNNEW  THONKICONNNEW           WQP-PJ301M-12_JACK MusicThingModular   1
+FINE          100k           9MM_SNAP-IN_POT_CHASSIS 9MM_SNAP-IN_POT    MusicThingModular   1
+FM_LEVEL      100k           9MM_SNAP-IN_POT_CHASSIS 9MM_SNAP-IN_POT    MusicThingModular   1
+JP1           M10"           M10"                    1X10               SparkFun-Connectors 1
+LINEAR_FM     THONKICONNNEW  THONKICONNNEW           WQP-PJ301M-12_JACK MusicThingModular   1
+LIN_FM_LEVEL1 100k           9MM_SNAP-IN_POT_CHASSIS 9MM_SNAP-IN_POT    MusicThingModular   1
+PULSE_OUT     THONKICONNNEW  THONKICONNNEW           WQP-PJ301M-12_JACK MusicThingModular   1
+PULSE_WIDTH   100k           9MM_SNAP-IN_POT_CHASSIS 9MM_SNAP-IN_POT    MusicThingModular   1
+PWM_CV        100k           9MM_SNAP-IN_POT_CHASSIS 9MM_SNAP-IN_POT    MusicThingModular   1
+PWM_INPUT     THONKICONNNEW  THONKICONNNEW           WQP-PJ301M-12_JACK MusicThingModular   1
+R1            100k           RESISTOR7MM             7MM_RESISTOR       MusicThingModular   1
+R3            2.2m           RESISTOR7MM             7MM_RESISTOR       MusicThingModular   1
+R4            100k           RESISTOR7MM             7MM_RESISTOR       MusicThingModular   1
+R5            100k           RESISTOR7MM             7MM_RESISTOR       MusicThingModular   1
+R6            2.4M           RESISTOR7MM             7MM_RESISTOR       MusicThingModular   1
+R11           1m             RESISTOR7MM             7MM_RESISTOR       MusicThingModular   1
+R14           1k             RESISTOR7MM             7MM_RESISTOR       MusicThingModular   1
+R29           1k             RESISTOR7MM             7MM_RESISTOR       MusicThingModular   1
+R32           3k             RESISTOR7MM             7MM_RESISTOR       MusicThingModular   1
+R33           1.8k           RESISTOR7MM             7MM_RESISTOR       MusicThingModular   1
+R34           100k           RESISTOR7MM             7MM_RESISTOR       MusicThingModular   1
+R35           330k           RESISTOR7MM             7MM_RESISTOR       MusicThingModular   1
+SINE_OUT      THONKICONNNEW  THONKICONNNEW           WQP-PJ301M-12_JACK MusicThingModular   1
+TRIANGLE_OUT  THONKICONNNEW  THONKICONNNEW           WQP-PJ301M-12_JACK MusicThingModular   1
