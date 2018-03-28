@@ -1,0 +1,71 @@
+Partlist
+
+Exported from buffered mult rt1_postpwer.brd at 3/27/18 9:26 PM
+
+EAGLE Version 7.3.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value                     Package              Library           Position (mm)         Orientation
+
+C1       6pf                       C0603                resistor          (2.5 81.42)           R180
+C2       10pf                      C0603                resistor          (13.57 75.76)         R90
+C3       10pf                      C0603                resistor          (3.02 26.65)          R90
+C4       6pf                       C0603                resistor          (2.68 31.8)           R270
+C5       10pf                      C0603                resistor          (14.1 26.9)           R180
+C6       10pf                      C0603                resistor          (12.92 39.58)         R0
+C7       0.1uf                     C0603                resistor          (9.83 69.8)           R180
+C8       0.1uf                     C0603                resistor          (6.03 21.1)           R180
+C9       10uf                      153CLV-0505          resistor          (12.74 100.22)        R0
+C10      10uf                      153CLV-0505          resistor          (5.02 100.22)         R0
+C11      0.1uf                     C0603                resistor          (9.83 37.35)          R180
+C23      10pf                      C0603                resistor          (12.88 80.96)         R270
+C24      10pf                      C0603                resistor          (2.47 75.56)          R90
+C25      0.1uf                     C0603                resistor          (2.58 78.8)           R180
+D2       1N4004                    DO41-10              diode             (7.71 107.45)         R0
+D3       1N4004                    DO41-10              diode             (7.74 104.55)         R180
+IN1      THONKICONNNEW             WQP-PJ301M-12_JACK   MusicThingModular (7.25 95)             MR270
+IN2      THONKICONNNEW             WQP-PJ301M-12_JACK   MusicThingModular (7.25 46)             MR270
+OUT1-1   THONKICONNNEW             WQP-PJ301M-12_JACK   MusicThingModular (8.5 84)              MR90
+OUT1-2   THONKICONNNEW             WQP-PJ301M-12_JACK   MusicThingModular (8.5 73)              MR90
+OUT1-3   THONKICONNNEW             WQP-PJ301M-12_JACK   MusicThingModular (8.5 62)              MR90
+OUT2-1   THONKICONNNEW             WQP-PJ301M-12_JACK   MusicThingModular (8.5 35)              MR90
+OUT2-2   THONKICONNNEW             WQP-PJ301M-12_JACK   MusicThingModular (8.5 24)              MR90
+OUT2-3   THONKICONNNEW             WQP-PJ301M-12_JACK   MusicThingModular (8.5 13)              MR90
+R1       100k                      R0603                resistor          (2 88.14)             R90
+R2       107k                      R0603                resistor          (4.12 88.14)          R90
+R3       13.3k                     R0603                resistor          (22.02 79.48)         R270
+R4       49.9k                     R0603                resistor          (19.96 79.52)         R90
+R5       49.9k                     R0603                resistor          (15.71 79.52)         R90
+R6       301R                      R0603                resistor          (17.83 79.47)         R90
+R7       49.9k                     R0603                resistor          (17.77 68.43)         R90
+R8       49.9k                     R0603                resistor          (19.92 68.48)         R90
+R9       13.3k                     R0603                resistor          (22.03 68.52)         R270
+R10      301R                      R0603                resistor          (15.68 68.47)         R90
+R11      49.9k                     R0603                resistor          (17.8 57.47)          R90
+R12      49.9k                     R0603                resistor          (19.91 57.57)         R90
+R13      301R                      R0603                resistor          (15.68 57.47)         R90
+R14      13.3k                     R0603                resistor          (21.99 57.53)         R270
+R15      100k                      R0603                resistor          (2 39.77)             R90
+R16      107k                      R0603                resistor          (4.15 39.77)          R90
+R17      49.9k                     R0603                resistor          (15.21 30.47)         R90
+R18      13.3k                     R0603                resistor          (21.94 30.53)         R270
+R19      49.9k                     R0603                resistor          (19.81 30.47)         R90
+R20      301R                      R0603                resistor          (17.6 30.47)          R90
+R21      49.9k                     R0603                resistor          (17.26 19.62)         R90
+R22      49.9k                     R0603                resistor          (19.5 19.62)          R90
+R23      13.3k                     R0603                resistor          (22.07 19.53)         R270
+R24      301R                      R0603                resistor          (14.85 19.58)         R270
+R25      49.9k                     R0603                resistor          (17.35 8.53)          R270
+R26      49.9k                     R0603                resistor          (19.6 8.52)           R90
+R27      301R                      R0603                resistor          (15.1 8.53)           R270
+R28      13.3k                     R0603                resistor          (21.97 8.48)          R270
+SV1      EURO_POWER_HEADERFAT_PADS EURO_PWR_HEADER_FAT  MusicThingModular (19.73 100.69)        R90
+TR1      2k                        BOURNS_3362P_TRIMMER MusicThingModular (19.5 84)             MR0
+TR2      2k                        BOURNS_3362P_TRIMMER MusicThingModular (19.5 73)             MR0
+TR3      2k                        BOURNS_3362P_TRIMMER MusicThingModular (19.5 62)             MR0
+TR4      2k                        BOURNS_3362P_TRIMMER MusicThingModular (19.5 35)             MR0
+TR5      2k                        BOURNS_3362P_TRIMMER MusicThingModular (19.5 24)             MR0
+TR6      2k                        BOURNS_3362P_TRIMMER MusicThingModular (19.5 13)             MR0
+U1       TL074_SMD                 SO14                 MusicThingModular (8.18 78.61)          R270
+U2       TL074_SMD                 SO14                 MusicThingModular (8.23 29.51)          R270
