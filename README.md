@@ -1,5 +1,5 @@
 # Synth-Circuits
-<h1>Eagle circuit designs for Eurorack Synthesis Systems</h1><br>
+Eagle circuit designs for Eurorack Synthesis Systems<br>
 
 <h2>Finished Projects: </h2><br>
 <a href="https://github.com/zhagan/Synth-Circuits/tree/master/eagle/Dual%20XR-VCO">Dual XR VCO - dual VCO based on the XR-2206</a><br>
