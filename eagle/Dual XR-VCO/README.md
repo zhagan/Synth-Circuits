@@ -1,15 +1,11 @@
-# TH-VCO1
+This is a dual analog VCO made with the obsolete XR-2206 chip at it's core. As of now they are available from Tayda :
 
-This is a Eurorack Layout for the [Thomas Henry VCO 1](http://www.birthofasynth.com/Thomas_Henry/Pages/VCO-1.html) Oscillator. 
+https://www.taydaelectronics.com/xr-2206-xr2206cp-xr2206-monolithic-function-generator-ic.html
 
-**NB: All rights to this design rest with Thomas Henry. I do not claim or grant any copyright or license to this design. I am not selling any boards. I have not been able to contact Thomas, and will take this page down if he asks me to.** 
+BOM with some mouser parts and some Tayda. They only component not available from Tayda is the THAT300P it is a quad match transistor IC
 
-I made very minor changes from Thomas' original to make it work on 12v - detailed here: https://muffwiggler.com/forum/viewtopic.php?t=49671
+You can experiment with using matched 3904s, I haven't gotten this to work, but I haven't tried:
 
-This layout is for a modern LM13700 OTA replacing the old 3080, with a That 340 chip providing the matched transistor pairs. The only other non-standard components are a [2K 3300ppm Tempco](https://www.thonk.co.uk/shop/tempco-resistor-anakeohm-1-3300ppm-x3/) as R2, and a Polystyrene 1nf cap as C3.  
+https://docs.google.com/spreadsheets/d/1TqwrbGHlNdp3Y3I2KgH5bRB9O5VfACbchm6eOLaQew8/edit?usp=sharing
 
-It all works very well, fantastic FM, nice looking and sounding sines. I was able to trim it to 4-5 octaves before getting bored. I haven't used multi-turn trimmers, so it might be harder to trim more accurately. On my second build I haven't trimmed anything, and it works beautifully for my needs. 
-
-Quick demo here: https://www.instagram.com/p/_etQT6DmdM/
-
-
+I derived this from Thomas Henry's Birth of a Synth, I have not been able to contact TH.  I have made this circuit compatible with eurorack systems. Enjoy! 
