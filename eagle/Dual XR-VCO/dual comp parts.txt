@@ -1,0 +1,127 @@
+Partlist
+
+Exported from xr_vco_components_manual_rt1-V2.brd at 3/29/18 9:54 PM
+
+EAGLE Version 7.3.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part       Value                      Package              Library                 Position (mm)         Orientation
+
+C1         100pf                      C050-024X044         TomW                    (56.75 7.96)          R180
+C2         470pf                      C050-024X044         TomW                    (81.12 92.46)         R180
+C3         100n                       C050-024X044         TomW                    (69.99 81.96)         R180
+C4         100n                       C050-024X044         TomW                    (68.11 68.46)         R180
+C5         100n                       C050-024X044         TomW                    (69.98 45.96)         R180
+C6         100n                       C050-024X044         TomW                    (68.1 66.21)          R180
+C7         0.047uf                    C050-024X044         TomW                    (78.28 36.29)         R0
+C9         4.7uf                      CPOL-RADIAL-10UF-25V SparkFun-Passives       (60.94 41.41)         MR180
+C10        10uf                       CPOL-RADIAL-10UF-25V SparkFun-Passives       (40.96 62.34)         MR0
+C11        10uf                       CPOL-RADIAL-10UF-25V SparkFun-Passives       (56.84 101.64)        MR90
+C12        470pf                      C050-024X044         TomW                    (10.29 93.04)         R0
+C13        10uf                       CPOL-RADIAL-10UF-25V SparkFun-Passives       (64.01 85.34)         MR0
+C14        0.047uf                    C050-024X044         TomW                    (29.74 38.89)         R0
+C16        4.7uf                      CPOL-RADIAL-10UF-25V SparkFun-Passives       (12.94 17.58)         MR180
+C17        4.7uf                      CPOL-RADIAL-10UF-25V SparkFun-Passives       (75.34 15.69)         MR0
+C18        100n                       C050-024X044         TomW                    (21.04 84.54)         R180
+C19        100n                       C050-024X044         TomW                    (20.54 49.1)          R180
+C20        100n                       C050-024X044         TomW                    (20.79 71.91)         R180
+C21        100n                       C050-024X044         TomW                    (20.79 69.72)         R180
+C108       100pf                      C050-024X044         TomW                    (5.16 72.54)          R0
+C113       10uf                       CPOL-RADIAL-10UF-25V SparkFun-Passives       (29.04 99.49)         MR270
+C115       4.7uf                      CPOL-RADIAL-10UF-25V SparkFun-Passives       (12.16 44.09)         MR180
+D1         1N4148                     DO35-7               MusicThingModular       (45.4 11.75)          R180
+D2         1N4148                     DO35-7               MusicThingModular       (79.53 89.69)         R180
+D3         1N4148                     DO35-7               MusicThingModular       (63.75 89.75)         R180
+D4         1N4148                     DO35-7               MusicThingModular       (83.1 25.94)          R180
+D5         1N4148                     DO35-7               MusicThingModular       (83.24 28.06)         R0
+D6         1N4148                     DO35-7               MusicThingModular       (59.65 54.1)          R0
+D10        1N4001                     DO41-10              diode                   (39.19 94.65)         R270
+D11        1N4001                     DO41-10              diode                   (52.69 90.1)          R270
+D107       1N4148                     DO35-7               MusicThingModular       (7.33 58.56)          R0
+D109       1N4148                     DO35-7               MusicThingModular       (8.15 48.69)          R180
+D110       1N4148                     DO35-7               MusicThingModular       (31.83 27.44)         R180
+D111       1N4148                     DO35-7               MusicThingModular       (32.01 25.31)         R0
+D112       1N4148                     DO35-7               MusicThingModular       (11.97 90.35)         R0
+D113       1N4148                     DO35-7               MusicThingModular       (29.06 89.6)          R0
+F1         FUSE                       C050H075X075         TomW                    (52.25 100.5)         MR90
+F2         FUSE                       C050H075X075         TomW                    (33.22 98.18)         MR90
+HIGH_FREQ  1M                         BOURNS_3362P_TRIMMER MusicThingModular       (83.2 69.7)           MR0
+HIGH_FREQ1 1M                         BOURNS_3362P_TRIMMER MusicThingModular       (7.5 66.05)           MR0
+IC1        XR-2206                    DIL16                exar                    (20.9 37.62)          R90
+IC2        XR-2206                    DIL16                exar                    (69.65 35.01)         R90
+JP1        M10"                       1X10                 SparkFun-Connectors     (86.09 79.69)         R90
+JP2        M10"                       1X10                 SparkFun-Connectors     (45.59 53.31)         R90
+JP3        M10"                       1X10                 SparkFun-Connectors     (4.93 79.9)           R90
+OFFSET     50k                        BOURNS_3362P_TRIMMER MusicThingModular       (82.81 44.5)          MR0
+OFFSET1    50k                        BOURNS_3362P_TRIMMER MusicThingModular       (40.2 43.75)          MR0
+Q1         THAT300P                   DIL14                that-corp               (45.45 23.57)         MR90
+Q2         2N3904                     TO92D                transistor-small-signal (11.14 51.92)         R0
+Q3         2N3904                     TO92D                transistor-small-signal (60.42 49.92)         R0
+R2         390R                       7MM_RESISTOR         MusicThingModular       (66.85 4.14)          R0
+R4         1k                         7MM_RESISTOR         MusicThingModular       (80.28 84.89)         R0
+R5         1k                         7MM_RESISTOR         MusicThingModular       (56.12 66.39)         R0
+R6         1.8k                       7MM_RESISTOR         MusicThingModular       (79.96 82.14)         R0
+R7         2k tempco                  0309/12              resistor                (45.43 19.79)         MR0
+R8         2.2k                       7MM_RESISTOR         MusicThingModular       (83.55 58.89)         R0
+R9         3k                         7MM_RESISTOR         MusicThingModular       (79.86 79.61)         R180
+R10        4.7k                       7MM_RESISTOR         MusicThingModular       (55.78 11.8)          R180
+R11        4.7k                       7MM_RESISTOR         MusicThingModular       (82.94 54.8)          R180
+R12        4.7k                       7MM_RESISTOR         MusicThingModular       (58.4 47.2)           R0
+R13        5.6k                       7MM_RESISTOR         MusicThingModular       (55.76 74.55)         R180
+R14        5.6k                       7MM_RESISTOR         MusicThingModular       (56.08 81.95)         R0
+R15        10k                        7MM_RESISTOR         MusicThingModular       (56.42 59.2)          R0
+R16        10k                        7MM_RESISTOR         MusicThingModular       (56.74 61.8)          R180
+R17        10k                        7MM_RESISTOR         MusicThingModular       (83.51 31)            R0
+R18        10k                        7MM_RESISTOR         MusicThingModular       (56.22 72.01)         R0
+R19        10k                        7MM_RESISTOR         MusicThingModular       (56.19 69.49)         R180
+R20        11k                        7MM_RESISTOR         MusicThingModular       (56.15 77.01)         R0
+R21        20k                        7MM_RESISTOR         MusicThingModular       (56.24 79.51)         R0
+R23        47k                        7MM_RESISTOR         MusicThingModular       (44.92 9.01)          R0
+R25        82k                        7MM_RESISTOR         MusicThingModular       (83.4 33.49)          R180
+R27        150k                       7MM_RESISTOR         MusicThingModular       (40.06 37.82)         R0
+R31        100k                       7MM_RESISTOR         MusicThingModular       (73.68 88.92)         R90
+R38        150k                       7MM_RESISTOR         MusicThingModular       (83.58 39.63)         R0
+R39        200k                       7MM_RESISTOR         MusicThingModular       (83.33 50.87)         R180
+R41        220k                       7MM_RESISTOR         MusicThingModular       (56.35 56.63)         R0
+R43        1.2m                       7MM_RESISTOR         MusicThingModular       (80.06 87.44)         R0
+R44        2.2M                       7MM_RESISTOR         MusicThingModular       (56.35 64.06)         R180
+R45        2.2M                       7MM_RESISTOR         MusicThingModular       (83.26 62.56)         R180
+R101       2k tempco                  0309/12              resistor                (45.49 30.08)         MR180
+R103       82k                        7MM_RESISTOR         MusicThingModular       (31.31 31.36)         R180
+R118       1k                         7MM_RESISTOR         MusicThingModular       (10.9 84.8)           R180
+R122       390R                       7MM_RESISTOR         MusicThingModular       (26.24 15.58)         R90
+R124       4.7k                       7MM_RESISTOR         MusicThingModular       (7.26 11.01)          R0
+R126       1.2m                       7MM_RESISTOR         MusicThingModular       (10.78 87.43)         R180
+R128       200k                       7MM_RESISTOR         MusicThingModular       (30.85 51.43)         R180
+R129       10k                        7MM_RESISTOR         MusicThingModular       (5.51 46.18)          R180
+R130       100k                       7MM_RESISTOR         MusicThingModular       (17.93 90.83)         R90
+R132       2.2k                       7MM_RESISTOR         MusicThingModular       (32.76 60.57)         R0
+R133       10k                        7MM_RESISTOR         MusicThingModular       (8.65 55.93)          R180
+R134       220k                       7MM_RESISTOR         MusicThingModular       (41.53 82.87)         R180
+R135       47k                        7MM_RESISTOR         MusicThingModular       (7.44 61.12)          R180
+R136       11k                        7MM_RESISTOR         MusicThingModular       (36.85 55.12)         R180
+R137       20k                        7MM_RESISTOR         MusicThingModular       (36.76 57.87)         R180
+R140       5.6k                       7MM_RESISTOR         MusicThingModular       (32.24 80.12)         R180
+R142       5.6k                       7MM_RESISTOR         MusicThingModular       (41.53 80.06)         R180
+R146       1k                         7MM_RESISTOR         MusicThingModular       (31.17 46.81)         R180
+R147       4.7k                       7MM_RESISTOR         MusicThingModular       (32.33 77.06)         R180
+R148       10k                        7MM_RESISTOR         MusicThingModular       (13.31 36.26)         R90
+R149       2.2M                       7MM_RESISTOR         MusicThingModular       (32.6 70.94)          R0
+R150       3k                         7MM_RESISTOR         MusicThingModular       (11.22 80.25)         R0
+R151       1.8k                       7MM_RESISTOR         MusicThingModular       (10.94 82.75)         R180
+R152       10k                        7MM_RESISTOR         MusicThingModular       (32.9 66.5)           R0
+R153       10k                        7MM_RESISTOR         MusicThingModular       (33.01 63.25)         R180
+R154       4.7k                       7MM_RESISTOR         MusicThingModular       (2.5 53)              R270
+R155       2.2M                       7MM_RESISTOR         MusicThingModular       (31.75 84.25)         R180
+SINE_RND   500 Ohm                    BOURNS_3362P_TRIMMER MusicThingModular       (57.77 30)            MR0
+SINE_RND1  500 Ohm                    BOURNS_3362P_TRIMMER MusicThingModular       (7.37 35.05)          MR0
+SINE_SYM   25k                        BOURNS_3362P_TRIMMER MusicThingModular       (58.36 19.75)         MR0
+SINE_SYM1  25k                        BOURNS_3362P_TRIMMER MusicThingModular       (7.43 24)             MR0
+SV1        EURO_POWER_HEADERLOCK_PADS EURO_PWR_HEADER_LOCK MusicThingModular       (45.84 92.71)         MR90
+U1         LF442N                     DIL08                linear                  (69.48 75.09)         R270
+U2         TL074P                     DIL14                linear                  (69.65 56.42)         R90
+U3         LF442N                     DIL08                linear                  (21.18 78.05)         R270
+U4         TL074P                     DIL14                linear                  (20.95 59.14)         R90
+V/OCT      100R                       BOURNS_3362P_TRIMMER MusicThingModular       (67.07 10.75)         MR0
+V/OCT1     100R                       BOURNS_3362P_TRIMMER MusicThingModular       (20.94 19.25)         MR0
